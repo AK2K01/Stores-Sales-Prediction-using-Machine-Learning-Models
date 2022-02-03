@@ -1,4 +1,5 @@
 # Stores-Sales-Prediction-using-Machine-Learning-Models
+
 ## Problem Statement
 Nowadays, Shopping Malls and Big Marts keep track of individual item sales data in order to forecast future client demand and adjust inventory management. In a data warehouse, these data stores hold a significant amount of consumer information and particular item details. By mining the datastore from the data warehouse, more anomalies and common patterns can be discovered.
 
@@ -11,7 +12,7 @@ Nowadays, Shopping Malls and Big Marts keep track of individual item sales data 
 4. Model Building
 5. Model Testing
 
-Dataset Source: https://www.kaggle.com/brijbhushannanda1979/bigmart-sales-data
+#### Dataset Source: https://www.kaggle.com/brijbhushannanda1979/bigmart-sales-data
 
 ### Results:
 1. Developed several Machine Learning Models.
