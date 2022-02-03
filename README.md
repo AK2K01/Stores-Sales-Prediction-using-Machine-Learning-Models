@@ -26,7 +26,7 @@ Nowadays, Shopping Malls and Big Marts keep track of individual item sales data 
 5. Random Forest Regressor
 6. Extra Trees Regressor
 
-Best Model: Linear Regressor 
-Model Report:
-Mean Squared Error(M.S.E.): 0.288
-Cross Validation(CV) Score: 0.289
+#### Best Model: Linear Regressor 
+#### Model Report:
+#### Mean Squared Error(M.S.E.): 0.288
+#### Cross Validation(CV) Score: 0.289
